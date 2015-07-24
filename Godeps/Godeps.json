@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/ribeirofelix/recipes",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/zenazn/goji",
+			"Comment": "v0.9.0-20-gd198bcf",
+			"Rev": "d198bcf1ddf7d69872b506da7d4c4862121a9d8a"
+		}
+	]
+}
